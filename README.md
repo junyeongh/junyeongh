@@ -6,10 +6,10 @@
 - 🔭 I enjoy playing with, building, and improving well-designed products that have a solid philosophy with the craftsmanship.
 - 💫 I'm passionate about spotting challenges or areas for improvement in team games so that we can all grow and succeed together.
 
-<!--
-📫 Reach me on my LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junyeongheo)
-💬 Check out my [blog](https://junyeongh.github.io/)
+📫 You can reach me on my LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junyeongheo)  
+💬 Also, check out my [blog](https://junyeongh.github.io/) and [resume](./resume/resume.pdf)!
 
+<!--
 <details>
 <summary>Projects</summary>
 
