@@ -7,7 +7,7 @@
 - 💫 I'm passionate about spotting challenges or areas for improvement in team games so that we can all succeed together.
 
 📫 You can reach me on my [LinkedIn](https://linkedin.com/in/junyeongheo)  
-💬 Also, check out my [blog](https://junyeongh.github.io/) and [resume](./resume/resume.pdf)!
+💬 Also, check out my [blog](https://junyeongh.github.io/) and [resume](./resume.pdf)!
 
 <details>
   <summary>Programming Languages</summary>
@@ -60,16 +60,13 @@
     </tr>
   </table>
   </div>
-
 </details>
 
-<!--
 <details>
-<summary>Projects</summary>
+<summary>Books</summary>
 
-- foo
-- bar
+- [The Art of Unit Testing (단위 테스트의 기술)](https://github.com/junyeongh/the-art-of-unit-testing)
+- [Web Browser Engineering (밑바닥부터 시작하는 웹 브라우저)](https://github.com/junyeongh/web-browser-engineering)
 - baz
 
 </details>
--->

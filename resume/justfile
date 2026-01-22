@@ -1,5 +1,0 @@
-compile:
-  typst compile resume.typ "Resume - Junyeong Heo ($(date +%Y)).pdf"
-
-watch:
-  typst watch resume.typ
