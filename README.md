@@ -6,12 +6,12 @@
 I enjoy playing with, building, and improving well-designed products that have a solid philosophy and the craftsmanship.  
 I'm passionate about spotting challenges or areas for improvement in team games so that we can all succeed together.
 
-If you'd like to know more about me, check out my [resume](./resume.pdf)!
+If you'd like to know more about me, check out my [resume](https://junyeongh.github.io/resume/en.pdf)!
 
 잘 설계된 도구를 탐구하고, 도구가 사용자에게 더 잘 전달될 수 있도록 개선하는 방법을 고민합니다.  
 그런 제품을 만들기 위한 팀의 가치를 이해하고, 개선할 수 있는 부분을 찾아 함께 발전시켜 나갑니다.
 
-저에 대해 더 알고 싶으시다면 [이력서](./resume-kr.pdf)를 확인해주세요!
+저에 대해 더 알고 싶으시다면 [이력서](https://junyeongh.github.io/resume/kr.pdf)를 확인해주세요!
 
 <details>
   <summary>Programming Languages</summary>
